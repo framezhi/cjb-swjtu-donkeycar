@@ -74,7 +74,7 @@
 │   ├── mypilot.h5
 │   ├── database.json
 │   ├── mypilot.png
-└── testcar # DonkeyCar项目目录
+└── mycar # DonkeyCar项目目录
     ├── calibrate.py
     ├── config.py
     ├── logs
